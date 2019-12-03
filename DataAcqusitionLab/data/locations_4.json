@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 4000,
+            "offset": 4001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1911-03-01",
-            "maxdate": "2019-11-22",
-            "name": "Pondera County, MT",
-            "datacoverage": 1,
-            "id": "FIPS:30073"
-        },
         {
             "mindate": "1893-02-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Guadalupe County, TX",
             "datacoverage": 1,
             "id": "FIPS:48187"
+        },
+        {
+            "mindate": "1897-01-01",
+            "maxdate": "2019-11-22",
+            "name": "Hale County, TX",
+            "datacoverage": 1,
+            "id": "FIPS:48189"
         }
     ]
 }

@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 18000,
+            "offset": 18001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1994-08-15",
-            "maxdate": "2019-11-22",
-            "name": "Hurlburt Field, FL 32544",
-            "datacoverage": 0.95,
-            "id": "ZIP:32544"
-        },
         {
             "mindate": "1931-01-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Boaz, AL 35956",
             "datacoverage": 0.95,
             "id": "ZIP:35956"
+        },
+        {
+            "mindate": "1938-01-01",
+            "maxdate": "2019-11-22",
+            "name": "Boaz, AL 35957",
+            "datacoverage": 1,
+            "id": "ZIP:35957"
         }
     ]
 }

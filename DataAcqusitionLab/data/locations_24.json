@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 24000,
+            "offset": 24001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1995-06-01",
-            "maxdate": "2019-11-22",
-            "name": "Pomeroy, IA 50575",
-            "datacoverage": 0.95,
-            "id": "ZIP:50575"
-        },
         {
             "mindate": "1995-06-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Wausau, WI 54401",
             "datacoverage": 1,
             "id": "ZIP:54401"
+        },
+        {
+            "mindate": "1958-05-15",
+            "maxdate": "2019-11-22",
+            "name": "Wausau, WI 54403",
+            "datacoverage": 1,
+            "id": "ZIP:54403"
         }
     ]
 }

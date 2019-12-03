@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 33000,
+            "offset": 33001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1994-12-15",
-            "maxdate": "2019-11-22",
-            "name": "Covington, TX 76636",
-            "datacoverage": 0.95,
-            "id": "ZIP:76636"
-        },
         {
             "mindate": "1994-12-15",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Jayton, TX 79528",
             "datacoverage": 1,
             "id": "ZIP:79528"
+        },
+        {
+            "mindate": "1935-06-01",
+            "maxdate": "2019-11-22",
+            "name": "Knox City, TX 79529",
+            "datacoverage": 1,
+            "id": "ZIP:79529"
         }
     ]
 }

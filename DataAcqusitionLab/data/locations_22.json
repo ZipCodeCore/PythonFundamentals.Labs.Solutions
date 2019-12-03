@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 22000,
+            "offset": 22001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1995-01-19",
-            "maxdate": "2019-11-22",
-            "name": "Dexter City, OH 45727",
-            "datacoverage": 0.95,
-            "id": "ZIP:45727"
-        },
         {
             "mindate": "1995-01-19",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Oxford, MI 48370",
             "datacoverage": 0.95,
             "id": "ZIP:48370"
+        },
+        {
+            "mindate": "1978-11-01",
+            "maxdate": "2019-11-22",
+            "name": "Oxford, MI 48371",
+            "datacoverage": 0.998,
+            "id": "ZIP:48371"
         }
     ]
 }

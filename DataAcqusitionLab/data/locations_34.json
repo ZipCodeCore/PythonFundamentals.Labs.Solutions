@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 34000,
+            "offset": 34001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1935-06-01",
-            "maxdate": "2019-11-22",
-            "name": "Knox City, TX 79529",
-            "datacoverage": 1,
-            "id": "ZIP:79529"
-        },
         {
             "mindate": "1940-04-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Layton, UT 84040",
             "datacoverage": 1,
             "id": "ZIP:84040"
+        },
+        {
+            "mindate": "1995-06-01",
+            "maxdate": "2019-11-22",
+            "name": "Layton, UT 84041",
+            "datacoverage": 0.95,
+            "id": "ZIP:84041"
         }
     ]
 }

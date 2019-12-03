@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 23000,
+            "offset": 23001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1978-11-01",
-            "maxdate": "2019-11-22",
-            "name": "Oxford, MI 48371",
-            "datacoverage": 0.998,
-            "id": "ZIP:48371"
-        },
         {
             "mindate": "1995-02-09",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Pocahontas, IA 50574",
             "datacoverage": 1,
             "id": "ZIP:50574"
+        },
+        {
+            "mindate": "1995-06-01",
+            "maxdate": "2019-11-22",
+            "name": "Pomeroy, IA 50575",
+            "datacoverage": 0.95,
+            "id": "ZIP:50575"
         }
     ]
 }

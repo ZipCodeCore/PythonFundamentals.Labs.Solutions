@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 25000,
+            "offset": 25001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1958-05-15",
-            "maxdate": "2019-11-22",
-            "name": "Wausau, WI 54403",
-            "datacoverage": 1,
-            "id": "ZIP:54403"
-        },
         {
             "mindate": "1995-07-26",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Laporte, MN 56461",
             "datacoverage": 1,
             "id": "ZIP:56461"
+        },
+        {
+            "mindate": "1995-11-01",
+            "maxdate": "2019-11-22",
+            "name": "Menahga, MN 56464",
+            "datacoverage": 1,
+            "id": "ZIP:56464"
         }
     ]
 }

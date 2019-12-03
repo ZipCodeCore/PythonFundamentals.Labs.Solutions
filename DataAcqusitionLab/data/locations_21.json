@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 21000,
+            "offset": 21001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1995-05-09",
-            "maxdate": "2019-11-22",
-            "name": "Manitou, KY 42436",
-            "datacoverage": 0.95,
-            "id": "ZIP:42436"
-        },
         {
             "mindate": "1928-01-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Cutler, OH 45724",
             "datacoverage": 0.95,
             "id": "ZIP:45724"
+        },
+        {
+            "mindate": "1995-01-19",
+            "maxdate": "2019-11-22",
+            "name": "Dexter City, OH 45727",
+            "datacoverage": 0.95,
+            "id": "ZIP:45727"
         }
     ]
 }

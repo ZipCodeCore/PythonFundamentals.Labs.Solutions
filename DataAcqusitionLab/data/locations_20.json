@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 20000,
+            "offset": 20001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1914-07-01",
-            "maxdate": "2019-11-22",
-            "name": "Leland, MS 38756",
-            "datacoverage": 1,
-            "id": "ZIP:38756"
-        },
         {
             "mindate": "1995-05-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Madisonville, KY 42431",
             "datacoverage": 1,
             "id": "ZIP:42431"
+        },
+        {
+            "mindate": "1995-05-09",
+            "maxdate": "2019-11-22",
+            "name": "Manitou, KY 42436",
+            "datacoverage": 0.95,
+            "id": "ZIP:42436"
         }
     ]
 }

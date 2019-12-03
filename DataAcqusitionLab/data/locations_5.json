@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 5000,
+            "offset": 5001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1897-01-01",
-            "maxdate": "2019-11-22",
-            "name": "Hale County, TX",
-            "datacoverage": 1,
-            "id": "FIPS:48189"
-        },
         {
             "mindate": "1905-07-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Upper Neuse Hydrologic Unit",
             "datacoverage": 1,
             "id": "HUC:03020201"
+        },
+        {
+            "mindate": "1899-09-01",
+            "maxdate": "2019-11-22",
+            "name": "Middle Neuse Hydrologic Unit",
+            "datacoverage": 1,
+            "id": "HUC:03020202"
         }
     ]
 }

@@ -37,8 +37,8 @@ def wait(secs):
 
 
 if __name__ == '__main__':
-    offsets = [x for x in range(6000, 39000, 1000)]
-    file_names = ["locations_{0}.json".format(str(x)[:1] if len(str(x)) < 5 else str(x)[:2]) for x in offsets]
+    offsets = [x for x in range(1, 39000, 1000)]
+    file_names = ["locations_{0}.json".format(str(x - 1)[:1] if len(str(x)) < 5 else str(x)[:2]) for x in offsets]
 
     for file_name, offset in zip(file_names, offsets):
         data = call_nooa(offset)

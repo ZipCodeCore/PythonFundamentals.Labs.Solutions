@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 12000,
+            "offset": 12001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1995-05-09",
-            "maxdate": "2019-11-22",
-            "name": "Hubbardsville, NY 13355",
-            "datacoverage": 0.95,
-            "id": "ZIP:13355"
-        },
         {
             "mindate": "1953-07-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Hartstown, PA 16131",
             "datacoverage": 0.95,
             "id": "ZIP:16131"
+        },
+        {
+            "mindate": "1995-01-19",
+            "maxdate": "2019-11-22",
+            "name": "Jackson Center, PA 16133",
+            "datacoverage": 0.95,
+            "id": "ZIP:16133"
         }
     ]
 }

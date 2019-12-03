@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 7000,
+            "offset": 7001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1893-01-01",
-            "maxdate": "2019-11-22",
-            "name": "Powder-Tongue Hydrologic Unit",
-            "datacoverage": 1,
-            "id": "HUC:1009"
-        },
         {
             "mindate": "1893-01-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Truckee Hydrologic Unit",
             "datacoverage": 1,
             "id": "HUC:160501"
+        },
+        {
+            "mindate": "1893-06-01",
+            "maxdate": "2019-11-22",
+            "name": "Lake Tahoe Hydrologic Unit",
+            "datacoverage": 1,
+            "id": "HUC:16050101"
         }
     ]
 }

@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 30000,
+            "offset": 30001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1940-11-01",
-            "maxdate": "2019-11-22",
-            "name": "Alexander, KS 67513",
-            "datacoverage": 1,
-            "id": "ZIP:67513"
-        },
         {
             "mindate": "1978-10-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Baton Rouge, LA 70810",
             "datacoverage": 1,
             "id": "ZIP:70810"
+        },
+        {
+            "mindate": "1978-10-20",
+            "maxdate": "2019-11-22",
+            "name": "Baton Rouge, LA 70811",
+            "datacoverage": 1,
+            "id": "ZIP:70811"
         }
     ]
 }

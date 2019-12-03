@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 35000,
+            "offset": 35001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1995-06-01",
-            "maxdate": "2019-11-22",
-            "name": "Layton, UT 84041",
-            "datacoverage": 0.95,
-            "id": "ZIP:84041"
-        },
         {
             "mindate": "1995-06-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Los Angeles, CA 90032",
             "datacoverage": 0.95,
             "id": "ZIP:90032"
+        },
+        {
+            "mindate": "1995-05-09",
+            "maxdate": "2019-11-22",
+            "name": "Los Angeles, CA 90033",
+            "datacoverage": 0.95,
+            "id": "ZIP:90033"
         }
     ]
 }

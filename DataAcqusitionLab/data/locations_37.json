@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 37000,
+            "offset": 37001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1907-01-01",
-            "maxdate": "2019-11-22",
-            "name": "Rio Vista, CA 94571",
-            "datacoverage": 1,
-            "id": "ZIP:94571"
-        },
         {
             "mindate": "1995-05-03",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Winchester, OR 97495",
             "datacoverage": 1,
             "id": "ZIP:97495"
+        },
+        {
+            "mindate": "1978-01-01",
+            "maxdate": "2019-11-22",
+            "name": "Winston, OR 97496",
+            "datacoverage": 1,
+            "id": "ZIP:97496"
         }
     ]
 }

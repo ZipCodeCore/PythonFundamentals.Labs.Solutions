@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 3000,
+            "offset": 3001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1896-05-01",
-            "maxdate": "2019-11-22",
-            "name": "Livingston County, IL",
-            "datacoverage": 1,
-            "id": "FIPS:17105"
-        },
         {
             "mindate": "1906-02-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Phillips County, MT",
             "datacoverage": 1,
             "id": "FIPS:30071"
+        },
+        {
+            "mindate": "1911-03-01",
+            "maxdate": "2019-11-22",
+            "name": "Pondera County, MT",
+            "datacoverage": 1,
+            "id": "FIPS:30073"
         }
     ]
 }

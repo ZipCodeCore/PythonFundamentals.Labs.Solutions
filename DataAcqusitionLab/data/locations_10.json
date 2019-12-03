@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 10000,
+            "offset": 10001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1995-05-08",
-            "maxdate": "2019-11-22",
-            "name": "Hinesburg, VT 05461",
-            "datacoverage": 0.95,
-            "id": "ZIP:05461"
-        },
         {
             "mindate": "1955-11-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "New York, NY 10040",
             "datacoverage": 0.95,
             "id": "ZIP:10040"
+        },
+        {
+            "mindate": "1995-04-26",
+            "maxdate": "2019-11-22",
+            "name": "New York, NY 10044",
+            "datacoverage": 0.95,
+            "id": "ZIP:10044"
         }
     ]
 }

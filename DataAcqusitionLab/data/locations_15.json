@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 15000,
+            "offset": 15001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "2019-11-22",
-            "name": "Suffolk, VA 23435",
-            "datacoverage": 1,
-            "id": "ZIP:23435"
-        },
         {
             "mindate": "1995-07-06",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Boonville, NC 27011",
             "datacoverage": 0.95,
             "id": "ZIP:27011"
+        },
+        {
+            "mindate": "1995-07-06",
+            "maxdate": "2019-11-22",
+            "name": "Clemmons, NC 27012",
+            "datacoverage": 1,
+            "id": "ZIP:27012"
         }
     ]
 }

@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 28000,
+            "offset": 28001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1900-08-01",
-            "maxdate": "2019-11-22",
-            "name": "Sullivan, IL 61951",
-            "datacoverage": 1,
-            "id": "ZIP:61951"
-        },
         {
             "mindate": "1894-01-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Weatherby, MO 64497",
             "datacoverage": 0.95,
             "id": "ZIP:64497"
+        },
+        {
+            "mindate": "1995-02-28",
+            "maxdate": "2019-11-22",
+            "name": "Westboro, MO 64498",
+            "datacoverage": 1,
+            "id": "ZIP:64498"
         }
     ]
 }

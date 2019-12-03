@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 13000,
+            "offset": 13001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1995-01-19",
-            "maxdate": "2019-11-22",
-            "name": "Jackson Center, PA 16133",
-            "datacoverage": 0.95,
-            "id": "ZIP:16133"
-        },
         {
             "mindate": "1920-03-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Pottstown, PA 19465",
             "datacoverage": 1,
             "id": "ZIP:19465"
+        },
+        {
+            "mindate": "1994-06-15",
+            "maxdate": "2019-11-22",
+            "name": "Royersford, PA 19468",
+            "datacoverage": 1,
+            "id": "ZIP:19468"
         }
     ]
 }

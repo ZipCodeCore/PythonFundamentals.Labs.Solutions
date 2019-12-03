@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 9000,
+            "offset": 9001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1994-12-15",
-            "maxdate": "2019-11-22",
-            "name": "Roxbury, MA 02119",
-            "datacoverage": 0.95,
-            "id": "ZIP:02119"
-        },
         {
             "mindate": "1994-12-15",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Highgate Center, VT 05459",
             "datacoverage": 1,
             "id": "ZIP:05459"
+        },
+        {
+            "mindate": "1995-05-08",
+            "maxdate": "2019-11-22",
+            "name": "Hinesburg, VT 05461",
+            "datacoverage": 0.95,
+            "id": "ZIP:05461"
         }
     ]
 }

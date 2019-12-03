@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 2000,
+            "offset": 2001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1893-10-10",
-            "maxdate": "2019-11-22",
-            "name": "Southwest Arizona Climate Division",
-            "datacoverage": 1,
-            "id": "CLIM:0405"
-        },
         {
             "mindate": "1892-12-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Lee County, IL",
             "datacoverage": 1,
             "id": "FIPS:17103"
+        },
+        {
+            "mindate": "1896-05-01",
+            "maxdate": "2019-11-22",
+            "name": "Livingston County, IL",
+            "datacoverage": 1,
+            "id": "FIPS:17105"
         }
     ]
 }

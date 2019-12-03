@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 14000,
+            "offset": 14001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1994-06-15",
-            "maxdate": "2019-11-22",
-            "name": "Royersford, PA 19468",
-            "datacoverage": 1,
-            "id": "ZIP:19468"
-        },
         {
             "mindate": "1893-08-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Suffolk, VA 23434",
             "datacoverage": 1,
             "id": "ZIP:23434"
+        },
+        {
+            "mindate": "1948-08-01",
+            "maxdate": "2019-11-22",
+            "name": "Suffolk, VA 23435",
+            "datacoverage": 1,
+            "id": "ZIP:23435"
         }
     ]
 }

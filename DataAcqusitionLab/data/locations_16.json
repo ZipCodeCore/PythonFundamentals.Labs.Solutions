@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 16000,
+            "offset": 16001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1995-07-06",
-            "maxdate": "2019-11-22",
-            "name": "Clemmons, NC 27012",
-            "datacoverage": 1,
-            "id": "ZIP:27012"
-        },
         {
             "mindate": "1919-07-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Due West, SC 29639",
             "datacoverage": 1,
             "id": "ZIP:29639"
+        },
+        {
+            "mindate": "1951-08-01",
+            "maxdate": "2019-11-22",
+            "name": "Easley, SC 29640",
+            "datacoverage": 1,
+            "id": "ZIP:29640"
         }
     ]
 }

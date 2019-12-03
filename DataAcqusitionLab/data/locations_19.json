@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 19000,
+            "offset": 19001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1938-01-01",
-            "maxdate": "2019-11-22",
-            "name": "Boaz, AL 35957",
-            "datacoverage": 1,
-            "id": "ZIP:35957"
-        },
         {
             "mindate": "1995-02-24",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Isola, MS 38754",
             "datacoverage": 0.95,
             "id": "ZIP:38754"
+        },
+        {
+            "mindate": "1914-07-01",
+            "maxdate": "2019-11-22",
+            "name": "Leland, MS 38756",
+            "datacoverage": 1,
+            "id": "ZIP:38756"
         }
     ]
 }

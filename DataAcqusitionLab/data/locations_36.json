@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 36000,
+            "offset": 36001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1995-05-09",
-            "maxdate": "2019-11-22",
-            "name": "Los Angeles, CA 90033",
-            "datacoverage": 0.95,
-            "id": "ZIP:90033"
-        },
         {
             "mindate": "1995-05-09",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Port Costa, CA 94569",
             "datacoverage": 0.95,
             "id": "ZIP:94569"
+        },
+        {
+            "mindate": "1907-01-01",
+            "maxdate": "2019-11-22",
+            "name": "Rio Vista, CA 94571",
+            "datacoverage": 1,
+            "id": "ZIP:94571"
         }
     ]
 }

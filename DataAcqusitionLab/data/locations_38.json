@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 38000,
+            "offset": 38001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1978-01-01",
-            "maxdate": "2019-11-22",
-            "name": "Winston, OR 97496",
-            "datacoverage": 1,
-            "id": "ZIP:97496"
-        },
         {
             "mindate": "1898-03-19",
             "maxdate": "2019-11-22",

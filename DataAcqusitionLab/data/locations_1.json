@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 1000,
+            "offset": 1001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1974-08-01",
-            "maxdate": "2019-11-16",
-            "name": "Mersin, TU",
-            "datacoverage": 0.9986,
-            "id": "CITY:TU000041"
-        },
         {
             "mindate": "2003-11-01",
             "maxdate": "2019-11-16",
@@ -7006,6 +6999,13 @@
             "name": "East Central Arizona Climate Division",
             "datacoverage": 1,
             "id": "CLIM:0404"
+        },
+        {
+            "mindate": "1893-10-10",
+            "maxdate": "2019-11-22",
+            "name": "Southwest Arizona Climate Division",
+            "datacoverage": 1,
+            "id": "CLIM:0405"
         }
     ]
 }

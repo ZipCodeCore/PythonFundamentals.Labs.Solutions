@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 11000,
+            "offset": 11001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1995-04-26",
-            "maxdate": "2019-11-22",
-            "name": "New York, NY 10044",
-            "datacoverage": 0.95,
-            "id": "ZIP:10044"
-        },
         {
             "mindate": "1876-01-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Holland Patent, NY 13354",
             "datacoverage": 1,
             "id": "ZIP:13354"
+        },
+        {
+            "mindate": "1995-05-09",
+            "maxdate": "2019-11-22",
+            "name": "Hubbardsville, NY 13355",
+            "datacoverage": 0.95,
+            "id": "ZIP:13355"
         }
     ]
 }

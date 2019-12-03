@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 32000,
+            "offset": 32001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1994-02-28",
-            "maxdate": "2019-11-22",
-            "name": "Burlington, OK 73722",
-            "datacoverage": 0.95,
-            "id": "ZIP:73722"
-        },
         {
             "mindate": "1949-01-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Coolidge, TX 76635",
             "datacoverage": 0.95,
             "id": "ZIP:76635"
+        },
+        {
+            "mindate": "1994-12-15",
+            "maxdate": "2019-11-22",
+            "name": "Covington, TX 76636",
+            "datacoverage": 0.95,
+            "id": "ZIP:76636"
         }
     ]
 }

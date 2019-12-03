@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 31000,
+            "offset": 31001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1978-10-20",
-            "maxdate": "2019-11-22",
-            "name": "Baton Rouge, LA 70811",
-            "datacoverage": 1,
-            "id": "ZIP:70811"
-        },
         {
             "mindate": "1995-05-09",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Bison, OK 73720",
             "datacoverage": 0.95,
             "id": "ZIP:73720"
+        },
+        {
+            "mindate": "1994-02-28",
+            "maxdate": "2019-11-22",
+            "name": "Burlington, OK 73722",
+            "datacoverage": 0.95,
+            "id": "ZIP:73722"
         }
     ]
 }

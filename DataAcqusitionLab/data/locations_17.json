@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 17000,
+            "offset": 17001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1951-08-01",
-            "maxdate": "2019-11-22",
-            "name": "Easley, SC 29640",
-            "datacoverage": 1,
-            "id": "ZIP:29640"
-        },
         {
             "mindate": "1995-06-01",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Eglin AFB, FL 32542",
             "datacoverage": 1,
             "id": "ZIP:32542"
+        },
+        {
+            "mindate": "1994-08-15",
+            "maxdate": "2019-11-22",
+            "name": "Hurlburt Field, FL 32544",
+            "datacoverage": 0.95,
+            "id": "ZIP:32544"
         }
     ]
 }

@@ -1,19 +1,12 @@
 {
     "metadata": {
         "resultset": {
-            "offset": 29000,
+            "offset": 29001,
             "count": 38859,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1995-02-28",
-            "maxdate": "2019-11-22",
-            "name": "Westboro, MO 64498",
-            "datacoverage": 1,
-            "id": "ZIP:64498"
-        },
         {
             "mindate": "1995-02-28",
             "maxdate": "2019-11-22",
@@ -7006,6 +6999,13 @@
             "name": "Alden, KS 67512",
             "datacoverage": 1,
             "id": "ZIP:67512"
+        },
+        {
+            "mindate": "1940-11-01",
+            "maxdate": "2019-11-22",
+            "name": "Alexander, KS 67513",
+            "datacoverage": 1,
+            "id": "ZIP:67513"
         }
     ]
 }
