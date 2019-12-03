@@ -8,6 +8,7 @@ import urllib.request
 import urllib.parse
 import time
 import os
+import sys
 
 
 def call_nooa(offset):
@@ -20,7 +21,7 @@ def call_nooa(offset):
     url = "https://www.ncdc.noaa.gov/cdo-web/api/v2/locations?%s" % params
 
     req = urllib.request.Request(url)
-    req.add_header('Token', 'RhaRxJDqDLnyTYEXgYAhOxXTmeTJhhrr')
+    req.add_header('Token', sys.argv[1])
 
     res = urllib.request.urlopen(req)
     return res
