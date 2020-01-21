@@ -43,16 +43,15 @@
 We can see from the response that there are 38,859 results. We only received 25. 
 
 By reading the [documentation](https://www.ncdc.noaa.gov/cdo-web/webservices/v2#locations), we can see that NOAA's api allows us to fetch 1000 locations per request by adding the **limit** argument to our rest call.
-We can also see that we can add a **offset** argument to determine the first record from the result set. 
-Combining these two approaches we could make 39 rest calls and acquire all of the data. 
+We can also see that we can add an **offset** argument to determine the first record from the result set. By combining these two approaches we could make 39 rest calls and acquire all of the data. 
 But doing this in Postman would be tedious. What if we had to make 1,000 rest calls? What if we had to make 50,000 rest call to acquire all of the data we needed? 
 Let's automate this process so we can spend our time on more important things. 
-Luckily Python has all of tooling we need to help us accomplish this task.
+Luckily Python has all of the tooling we need to help us accomplish this task.
 
 ### Your task
 
 1. Create a script called **make_requests.py**
-2. Using [urllib.request](https://docs.python.org/3/library/urllib.request.html#module-urllib.request) module, make it so that your script makes a rest call to NOAA's api and saves the result to json files.
+2. Using [urllib.request](https://docs.python.org/3/library/urllib.request.html#module-urllib.request) module, make it so that your script makes rest calls to NOAA's api and saves the results to json files.
 3. Once it is executed, you should have 39 files. 
 The files should be named as follows:
 * locations_0.json 
@@ -112,7 +111,7 @@ Example:
 
 ### Tips
 
-* NOAA's APIs limit how many rest calls you can make in a day. Be sure to test your code in chunks to avoid accidently exausting all of your alloted calls due to a bug in your code.
+* NOAA's APIs limits how many rest calls you can make in a day. Be sure to test your code in chunks to avoid accidently exausting all of your alloted calls due to a bug in your code.
 
 * Break the problem down.  
   * Test your script with just one call first. 
