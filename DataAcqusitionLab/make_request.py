@@ -30,7 +30,7 @@ def call_nooa(offset):
 def write_result(data, file_name):
     file_path = os.path.join("./", "data", file_name)
     with open(file_path, "wb") as d:
-        d.write(data.read())
+        d.write(data)
 
 
 def wait(secs):
